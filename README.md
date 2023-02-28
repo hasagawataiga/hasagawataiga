@@ -30,8 +30,11 @@ class Self {
     SelfInfo self = new SerlfInfo();
     self.setFullName("Tuan Vo Le Hoang");
     self.setPersonality("Passionate");
-    self.setAddress("Poland");
+    self.setResidence("Warsaw, Poland");
     self.setCountry("Vietnam");
+    self.addField("Android Developement");
+    self.addField("Java Developement");
+    self.addProgramLanguage("Java");
   }
 }
 ```
