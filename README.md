@@ -27,7 +27,7 @@ As a third year student in Computer Engineering, I am planning to be an Java/And
 import package.SelfInfo;
 class Self {
   public static void main (String[] args){
-    SelfInfo self = new SerlfInfo();
+    SelfInfo self = new SelfInfo();
     self.setFullName("Tuan Vo Le Hoang");
     self.setPersonality("Passionate");
     self.setResidence("Warsaw, Poland");
