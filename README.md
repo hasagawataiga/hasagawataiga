@@ -47,8 +47,25 @@ class Self {
   <br><br>
   
 ## My Statistics
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true&theme=gruvbox&hide_border=true" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true" />
+</picture>
+
+<a href="https://github.com/hasagawataiga/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasagawataiga&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/hasagawataiga/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasagawataiga&repo=convoychat" />
+</a>
+
 <br>
 ------
 
