@@ -59,9 +59,7 @@ class Self {
 <img src="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true" />
 </picture>
 
-<a href="https://github.com/hasagawataiga/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasagawataiga&repo=github-readme-stats" />
-</a>
+
 <a href="https://github.com/hasagawataiga/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasagawataiga&repo=convoychat" />
 </a>
