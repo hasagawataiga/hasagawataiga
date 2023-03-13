@@ -47,9 +47,10 @@ class Self {
   <br><br>
   
 ## My Statistics
+<p align="center">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -59,9 +60,15 @@ class Self {
 <img src="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true" />
 </picture>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=hasagawataiga&theme=radical&border_radius=7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github.com/hasagawataiga/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasagawataiga&repo=convoychat" />
+<p/>
+<br>
+<a href="https://github.com/hasagawataiga/Leetcode">
+  <img align="center" src="https://github-readme-stats-a4ewx1ivc-hasagawataiga.vercel.app/api/pin/?username=hasagawataiga&repo=Leetcode"/>
+</a>
+<a href="https://github.com/hasagawataiga/Plant_Mangement">
+  <img align="center" src="https://github-readme-stats-a4ewx1ivc-hasagawataiga.vercel.app/api/pin/?username=hasagawataiga&repo=Plant_Mangement"/>
 </a>
 
 <br>
