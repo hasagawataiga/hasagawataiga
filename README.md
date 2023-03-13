@@ -47,7 +47,7 @@ class Self {
   <br><br>
   
 ## My Statistics
-<p align="center">
+<p align="right">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=hasagawataiga&show_icons=true&theme=radical"
@@ -64,13 +64,14 @@ class Self {
 
 <p/>
 <br>
+<p align="center">
 <a href="https://github.com/hasagawataiga/Leetcode">
   <img align="center" src="https://github-readme-stats-a4ewx1ivc-hasagawataiga.vercel.app/api/pin/?username=hasagawataiga&repo=Leetcode"/>
 </a>
 <a href="https://github.com/hasagawataiga/Plant_Mangement">
   <img align="center" src="https://github-readme-stats-a4ewx1ivc-hasagawataiga.vercel.app/api/pin/?username=hasagawataiga&repo=Plant_Mangement"/>
 </a>
-
+</p>
 <br>
 ------
 
