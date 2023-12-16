@@ -19,6 +19,14 @@ As a third year student in Computer Engineering, I am planning to be an Java/And
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+    &emsp;
+<a href="https://www.atlassian.com/software/jira"><img alt="Jira" src ="https://img.shields.io/badge/jira-100000?style=for-the-badge&logo=JIRA&logoColor=Black&labelColor=blue&color=blue"></a>
+  &emsp;
+<a href="https://playwright.dev/"><img alt="Playwright" src ="https://img.shields.io/badge/Playwright-100000?style=for-the-badge&logo=Playwright&logoColor=Black&labelColor=red&color=Green&link=https%3A%2F%2Fplaywright.dev%2F"></a>
+    &emsp;
+<a href="https://bitbucket.org/product"><img alt="Bitbucket" src ="https://img.shields.io/badge/Bitbucket-100000?style=for-the-badge&logo=Bitbucket&logoColor=Black&labelColor=blue&color=blue"></a>
+  &emsp;
+<a href="https://spring.io/"><img alt="Spring" src ="https://img.shields.io/badge/spring-00000F?style=for-the-badge&logo=Spring&logoColor=Black&labelColor=green&color=light%20blue"></a>
  </p>
 
 <img src="https://komarev.com/ghpvc/?username=hasagawataiga&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
