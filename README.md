@@ -1,8 +1,8 @@
 <h1 align="center">
   <b>Bello there, It's Tuan</b>
 </h1>
+<p align="center" size="80sp">"dum spiro, spero"</p>
 
-"dum spiro, spero"
 <br>
 
 
