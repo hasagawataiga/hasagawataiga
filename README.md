@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Bello there, I'm Tuan Vo Le Hoang</b>
+  <b>Bello there, It's Tuan</b>
 </h1>
 
-As a third year student in Computer Engineering, I am planning to be an Java/Android Developer. Hunger of knowledge from everyfield not only technologies.
+"dum spiro, spero"
 <br>
 
 
