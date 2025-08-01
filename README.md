@@ -37,12 +37,12 @@ class Self {
   public static void main (String[] args){
     SelfInfo self = new SelfInfo();
     self.setFullName("Tuan Vo Le Hoang");
-    self.setPersonality("Passionate");
+    self.setPersonality("B.Sc. in Computer Science");
     self.setResidence("Warsaw, Poland");
     self.setCountry("Vietnam");
-    self.addField("Android Developement");
+    self.addField("Automated Test");
     self.addField("Java Developement");
-    self.addProgramLanguage("Java");
+    self.addProgramLanguage("QA Engineer");
   }
 }
 ```
